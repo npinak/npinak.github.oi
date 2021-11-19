@@ -1,0 +1,23 @@
+I"¸<h1 id="hello">Hello!!</h1>
+
+<p>Welcome to my website! I am a recent graduate from the University of California, Los Angeles (UCLA) with a degree in Neuroscience.</p>
+
+<p>My biggest interests in the field of neuroscience are understanding the neural basis of cognition, discovering new treatments for psychatric disorders, and finding ways to improve our mental health.</p>
+
+<p>I am currently looking for a job as a research assistant, lab manger, or research technician. So, if you know anyone who is looking for someone to fill these roles, I would greatly appreciate it if you contacted me by filling out the form below (name, email, and message required only!).</p>
+
+<h2 id="contact-me">Contact me</h2>
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xqkwrplq" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Name</label>
+    <input type="text" name="name" id="full-name" placeholder="Name" required="" />
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" />
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Please type your message here" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission" />
+  </fieldset>
+  <input type="submit" value="Submit" />
+</form>
+:ET
