@@ -11,11 +11,9 @@ header:
 
 # Hello!!
 
-Welcome to my website! I am a recent graduate from the University of California, Los Angeles (UCLA) with a degree in Neuroscience. 
+As a Full Stack Developer at Squared2, I develop responsive and scalable web applications using cutting-edge technologies such as Next.js, React.js, Tailwind, TypeScript, Node.js, and MongoDB. In addition to development tasks, I actively engage in software testing, ensuring the reliability and quality of our applications. I collaborate with a team of 9 developers, creating and integrating APIs, designing and implementing Redux and Redux Thunk, managing the application state, and handling asynchronous data across the frontend and backend. 
 
-My biggest interests in the field of neuroscience are understanding the neural basis of cognition, discovering new treatments for psychatric disorders, and finding ways to improve our mental health. 
-
-I am currently looking for a job as a research assistant, lab manger, or research technician. So, if you know anyone who is looking for someone to fill these roles, I would greatly appreciate it if you contacted me by filling out the form below (name, email, and message required only!). 
+My journey in software engineering, project management, and agile methodologies has fortified my technical proficiency. At STOKR, I contributed significantly to a web-based investment platform for crypto companies, optimizing asset loading to enhance page loading speeds by 20%. Similarly, at Ernest-Brooks International, I led the successful launch of a new website for a prestigious London-based luxury real estate firm. Leveraging advanced Next.js and React technologies, I sculpted an aesthetically pleasing and flawlessly functional application experience.
 
 ## Contact me
 
