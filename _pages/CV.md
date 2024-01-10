@@ -5,4 +5,4 @@ classes: wide
 permalink: /cv/
 ---
 
-<embed src="/assets/images/Resume_nPinak.pdf" type="application/pdf">
+<embed src="/assets/images/resume-npinak.pdf" type="application/pdf">
