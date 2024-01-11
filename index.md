@@ -11,13 +11,15 @@ header:
 
 # Hello!!
 
-As a Full Stack Developer at Squared2, I develop responsive and scalable web applications using cutting-edge technologies such as Next.js, React.js, Tailwind, TypeScript, Node.js, and MongoDB. In addition to development tasks, I actively engage in software testing, ensuring the reliability and quality of our applications. I collaborate with a team of 9 developers, creating and integrating APIs, designing and implementing Redux and Redux Thunk, managing the application state, and handling asynchronous data across the frontend and backend. 
+As a Full Stack Developer at Squared2, I develop responsive and scalable web applications using cutting-edge technologies such as Next.js, React.js, Tailwind, TypeScript, Node.js, and MongoDB. In addition to development tasks, I actively engage in software testing, ensuring the reliability and quality of our applications. I collaborate with a team of 9 developers, creating and integrating APIs, designing and implementing Redux and Redux Thunk, managing the application state, and handling asynchronous data across the frontend and backend.
 
 My journey in software engineering, project management, and agile methodologies has fortified my technical proficiency. At STOKR, I contributed significantly to a web-based investment platform for crypto companies, optimizing asset loading to enhance page loading speeds by 20%. Similarly, at Ernest-Brooks International, I led the successful launch of a new website for a prestigious London-based luxury real estate firm. Leveraging advanced Next.js and React technologies, I sculpted an aesthetically pleasing and flawlessly functional application experience.
 
 ## Contact me
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xqkwrplq" method="post">
+https://forms.gle/ramHYZE5Q4uNXNou7
+
+<!-- <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xqkwrplq" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Name</label>
     <input type="text" name="name" id="full-name" placeholder="Name" required="">
@@ -28,4 +30,4 @@ My journey in software engineering, project management, and agile methodologies 
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
-</form>
+</form> -->
