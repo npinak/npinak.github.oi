@@ -15,10 +15,6 @@ As a Full Stack Developer at Squared2, I develop responsive and scalable web app
 
 My journey in software engineering, project management, and agile methodologies has fortified my technical proficiency. At STOKR, I contributed significantly to a web-based investment platform for crypto companies, optimizing asset loading to enhance page loading speeds by 20%. Similarly, at Ernest-Brooks International, I led the successful launch of a new website for a prestigious London-based luxury real estate firm. Leveraging advanced Next.js and React technologies, I sculpted an aesthetically pleasing and flawlessly functional application experience.
 
-## Contact me
-
-https://forms.gle/ramHYZE5Q4uNXNou7
-
 <!-- <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xqkwrplq" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Name</label>
